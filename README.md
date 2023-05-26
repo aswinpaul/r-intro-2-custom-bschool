@@ -1,6 +1,7 @@
 # r-intro-2-custom-bschool
 
-Introduction to R workshop material. This is an updated full day workshop.
+Introduction to R workshop material. 
+This workshop contains an additional section on time-series forcasting and basics of linear models, aimed at buissness school audience.
 
 This workshop material uses the `bookdown` R package.
 
