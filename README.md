@@ -1,4 +1,4 @@
-# r-intro-2
+# r-intro-2-custom-bschool
 
 Introduction to R workshop material. This is an updated full day workshop.
 
@@ -19,13 +19,23 @@ make ingest
 
 ## Typical schedule
 
+## Day 1 
+
 ```
 10:00am   Welcome overview, Starting out in R, Data frames 
 12.30pm   Lunch Break 
 1.30pm    Data frames, Plotting with ggplot2 
-3.00pm    Tea break 
-3.15pm    Plotting with ggplot2, Summarizing data, Thinking in R 
-5.00pm    End Workshop
+2.30pm    End of workshop
+```
+
+## Day 2 
+
+```
+10:00am   Remaining portion: Data-frames, Plotting with ggplot2
+11.00am   Summarising data, Thinking in R
+12.30pm   Lunch Break 
+1.30pm    Custom section on time-series forecast and intro to modelling 
+2.30pm    End of workshop
 ```
 
 `opening_slides_template.pptx` can be used as a template for an opening slideshow. Fill in instructor names and the location of your workshop etherpad. The workshop etherpad serves as the central jumping off point for the workshop, and should list at the top:
